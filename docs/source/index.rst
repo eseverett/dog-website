@@ -1,20 +1,17 @@
-.. Miller Puppies documentation master file, created by
-   sphinx-quickstart on Thu Sep 26 16:25:15 2024.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Goldendoodle Puppies for Sale!
+==============================
 
-Welcome to Miller Puppies's documentation!
-==========================================
+Golden labradoodles available now! This unexpected litter is full of the sweetest pups that love everyone. Golden retriever (Dad) and labradoodle (Mom).
 
+.. image:: images/group_image.jpg
+   :align: center
+   :scale: 50%
+
+   
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :hidden:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   toc_rst/meet_the_puppies
+   toc_rst/contact_us
