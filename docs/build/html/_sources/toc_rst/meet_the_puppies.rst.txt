@@ -9,9 +9,9 @@ A playful little pup who loves games and always brings high energy, August is su
     :align: center
     :scale: 20%
 
-Duncan
-------
-Duncan is full of surprises—one minute he's running around with boundless energy, the next he's curling up for a quiet rest. He's the adventurous spirit of the group.
+Ponelope
+--------
+Ponelope is full of surprises—one minute she's running around with boundless energy, the next she's curling up for a quiet rest. She's the adventurous spirit of the group.
 
 .. image:: ../images/Duncan.jpg
     :align: center
